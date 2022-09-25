@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="w-full min-h-screen bg-white flex flex-row">
       <Sidebar/>
-      <section className="flex-1 bg-white text-center">Content Left</section>
+      <section className="flex-1 bg-white text-center">Sedang Dalam Tahap Pengembangan</section>
       <section className="w-96 bg-gray-100 rounded-tl-70px overflow-hidden px-8">
         <div className="pt-12 flex justify-end space-x-9 item-center">
           <GrNotification className="mt-2" size={20}/>
